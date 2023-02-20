@@ -20,25 +20,25 @@ My goals for this project are as follows:
 
 ## Basics
 
-- [x] Introduction: An overview of JavaScript, including its history, characteristics, and uses.
-- [x] Where To: How to include JavaScript in your HTML document, and where to place your JavaScript code.
-- [x] Output: How to output text, values, and expressions to the user, using the alert(), document.write(), console.log(), and innerHTML methods.
-- [x] Statements: The different types of statements in JavaScript, including assignment, conditional, loop, and function statements.
-- [x] Syntax: The rules and conventions for writing JavaScript code, including comments, whitespace, and case sensitivity.
-- [x] Variables: How to declare and assign values to variables, and the different data types that variables can hold.
-- [x] Operators: The different types of operators in JavaScript, including arithmetic, comparison, logical, and bitwise operators.
-- [x] Arithmetic: The arithmetic operators in JavaScript, including addition, subtraction, multiplication, division, and modulus.
-- [x] Assignment: The assignment operators in JavaScript, including simple assignment, addition assignment, subtraction assignment, and more.
-- [x] Data Types: A detailed explanation of the different data types in JavaScript, including primitive and complex types.
-- [x] Functions: How to define and call functions in JavaScript, and the different types of function parameters and return values.
-- [x] Objects: The concept of objects in JavaScript, including how to create, access, and modify object properties and methods.
-- [x] Properties and Methods
-- [x] Object Methods
+- [] Introduction: An overview of JavaScript, including its history, characteristics, and uses.
+- [] Where To: How to include JavaScript in your HTML document, and where to place your JavaScript code.
+- [] Output: How to output text, values, and expressions to the user, using the alert(), document.write(), console.log(), and innerHTML methods.
+- [] Statements: The different types of statements in JavaScript, including assignment, conditional, loop, and function statements.
+- [] Syntax: The rules and conventions for writing JavaScript code, including comments, whitespace, and case sensitivity.
+- [] Variables: How to declare and assign values to variables, and the different data types that variables can hold.
+- [] Operators: The different types of operators in JavaScript, including arithmetic, comparison, logical, and bitwise operators.
+- [] Arithmetic: The arithmetic operators in JavaScript, including addition, subtraction, multiplication, division, and modulus.
+- [] Assignment: The assignment operators in JavaScript, including simple assignment, addition assignment, subtraction assignment, and more.
+- [] Data Types: A detailed explanation of the different data types in JavaScript, including primitive and complex types.
+- [] Functions: How to define and call functions in JavaScript, and the different types of function parameters and return values.
+- [] Objects: The concept of objects in JavaScript, including how to create, access, and modify object properties and methods.
+- [] Properties and Methods
+- [] Object Methods
       1. Objects can also have methods.
       2. Methods are actions that can be performed on objects.
       3. Methods are stored in properties as function definitions.
       4. A method is a function stored as a property.
-- [x] this keyword - the this keyword refers to an object.
+- [] this keyword - the this keyword refers to an object.
 
 ## Advanced
 
